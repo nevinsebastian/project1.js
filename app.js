@@ -27,9 +27,36 @@
 //const life = 100;
 //const life = 100; // const cant be changed  like var
 
-let life = 100
-
-life = life - 50; // but we can change let
-
-console.log(life);
+//let life = 100
+//
+//life = life - 50; // but we can change let
+//
+//console.log(life);
  
+
+
+//function logger() {
+//    console.log("Party Time");
+//    console.log("Party Time");
+//    console.log("Party Time");
+//    console.log("Party Time");
+//    console.log("Party Time");
+//    console.log("Party Time");
+//    }
+//
+//logger(name);
+//
+//function Adder(num1,num2) {
+//    console.log(num1 + num2);
+//}
+//
+//Adder(6,6);
+const name = "Nevin Sebastian";
+const youruber = 'MR beast'
+
+function toUpper(text) {
+    const upperCased = text.toUpperCase();
+    console.log(upperCased);
+}
+toUpper(name);
+t
