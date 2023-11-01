@@ -64,7 +64,17 @@
 //const toUpper = () => {
 //    asbasd
 //}
-const name = 'Nevin'
+//const name = 'Nevin'
+//
+//console.log("my name is " + "Nevin") // string concatination
+//console.log(`my name is ${name}`)
+//
 
-console.log("my name is " + "Nevin") // string concatination
-console.log(`my name is ${name}`)
+const dice1 = 6;
+const dice2 = 3;
+
+if(dice1 === 6 || dice2 === 6){
+    console.log('you rolled a double');
+}else{
+    console.log('Sorry you are not good to go');
+}
