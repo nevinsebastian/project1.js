@@ -51,12 +51,20 @@
 //}
 //
 //Adder(6,6);
-const name = "Nevin Sebastian";
-const youruber = 'MR beast'
+//const name = "Nevin Sebastian";
+//const youtuber = 'MR beast'
+//
+//function toUpper(text) {
+//    const upperCased = text.toUpperCase();
+//    console.log(upperCased);
+//}
+//toUpper(name);
+//
+//
+//const toUpper = () => {
+//    asbasd
+//}
+const name = 'Nevin'
 
-function toUpper(text) {
-    const upperCased = text.toUpperCase();
-    console.log(upperCased);
-}
-toUpper(name);
-t
+console.log("my name is " + "Nevin") // string concatination
+console.log(`my name is ${name}`)
